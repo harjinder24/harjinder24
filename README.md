@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
-Hi 👋, I'm Harjinder<br><br>Analyzing, iterating, and thriving: My story of transitioning to data science.<br><br>🌱 I’m currently learning Product Analytics<br><br>👨‍💻 All of my projects are available at https://github.com/harjinder24/<br><br>📝 I regularly write articles on https://medium.com/@harjindersinghh<br><br>📫 Reach me on: herjindersinghh20@gmail.com<br><br>
+Hi 👋, I'm Harjinder<br><br>Analyzing, iterating, and thriving: My story of transitioning to data science.<br><br>🌱 I’m currently learning Product Analytics<br><br>👨‍💻 All of my projects are available at https://github.com/harjinder24/<br><br>📝 I regularly write articles on https://medium.com/@harjindersinghh<br><br>📫 Reach me on: herjindersinghh20@gmail.com<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harjinder24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harjindersinghh) 
