@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Harjinder<br><br>Analyzing, iterating, and thriving: My story of transitioning to data science.<br><br>🌱 I’m currently learning Product Analytics<br><br>👨‍💻 All of my projects are available at https://github.com/harjinder24/<br><br>📝 I regularly write articles on https://medium.com/@harjindersinghh<br><br>📫 How to reach me herjindersinghh20@gmail.com<br><br>
+Hi 👋, I'm Harjinder<br><br>Analyzing, iterating, and thriving: My story of transitioning to data science.<br><br>🌱 I’m currently learning Product Analytics<br><br>👨‍💻 All of my projects are available at https://github.com/harjinder24/<br><br>📝 I regularly write articles on https://medium.com/@harjindersinghh<br><br>📫 Reach me on: herjindersinghh20@gmail.com<br><br>
 
 
 ## 🌐 Socials:
