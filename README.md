@@ -12,8 +12,6 @@ Hi 👋, I'm Harjinder<br><br>Analyzing, iterating, and thriving: My story of tr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harjinder24&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harjinder24&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harjinder24&icon=1&color=1)](https://visitcount.itsvg.in)
